@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 380px;
+    height: 280px;
+}
+
+.container{
+    background-color: #30303a;
+    color: #fff;
+}
+
+.wrapper{
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
